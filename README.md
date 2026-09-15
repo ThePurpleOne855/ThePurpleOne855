@@ -1,145 +1,235 @@
-```md
 <div align="center">
 
 # Jose Santana
 
 ### Computer Science @ UCF · Software Engineering · Backend Development
 
-Building software to understand how systems work — from backend APIs and databases to full-stack applications.
+<p>
+  <a href="https://github.com/ThePurpleOne855">
+    <img src="https://komarev.com/ghpvc/?username=ThePurpleOne855&label=PROFILE+VIEWS&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/jose-santana-47aa8a266/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jose%20Santana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jasas1357@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Santana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-santana-47aa8a266/)
-[![GitHub](https://img.shields.io/badge/GitHub-ThePurpleOne855-181717?style=flat-square&logo=github)](https://github.com/ThePurpleOne855)
+```text
+> building software one layer at a time.
+```
 
 </div>
 
 ---
 
-## About Me
+## `whoami`
 
-I'm a **Computer Science student at the University of Central Florida**, minoring in **Cybersecurity**, with a focus on software engineering and backend development.
+```yaml
+name: Jose Santana
+education: Computer Science @ University of Central Florida
+focus:
+  - Software Engineering
+  - Backend Development
+  - Data Structures & Algorithms
+  - Software Architecture
+  - Databases
 
-I enjoy building projects that push me beyond syntax and into architecture, debugging, APIs, databases, and system design.
+currently_building:
+  - REST APIs
+  - Backend systems
+  - Full-stack applications
 
-Currently focused on:
+currently_learning:
+  - System Design
+  - Advanced DSA
+  - Clean Architecture
+  - Scalable Backend Development
+```
 
-- Data Structures & Algorithms
-- Backend development with Java and Spring Boot
-- REST API design
-- Databases and application architecture
-- Building stronger software engineering projects
-- Preparing for software engineering internships
+I like understanding how software works beyond the surface — from the API layer and business logic down to databases, networking, and the systems underneath it.
+
+Most of my projects are built around learning by **designing, breaking, rebuilding, and improving real software**.
 
 ---
 
-## Tech Stack
+## `tech --stack`
+
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 
 ### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql&theme=dark" />
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
 
 ### Tools & Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,maven" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## Featured Projects
+## `ls ./projects`
 
-### Expense Tracker API
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Java · Spring Boot · MySQL · REST · JWT · Maven**
+### 📦 [Inventory System](https://github.com/ThePurpleOne855/Inventory_System)
 
-Modernization and contribution work on an existing backend application.
+Backend inventory and order-management system designed for **Madre Tierra**.
 
-Worked with RESTful API architecture, authentication, persistence, application layering, database configuration, and API documentation.
+Built around a layered architecture separating routing, business logic, persistence, schemas, and database models.
 
-[View Repository →](https://github.com/ThePurpleOne855/expense-tracker-api-arsan13)
+**Stack**
 
----
+`Python` `FastAPI` `SQLModel` `PostgreSQL` `Alembic` `Docker`
 
-### Inventory System
+**What I'm practicing**
 
-**Python · OOP · Application Design**
+- REST API architecture
+- Service / CRUD separation
+- Relational data modeling
+- Database migrations
+- Validation
+- Authentication fundamentals
+- Testing
+- Maintainable project structure
 
-Inventory management application focused on object-oriented design, validation, maintainable structure, and practical application logic.
+</td>
 
-[View Repository →](https://github.com/ThePurpleOne855/Inventory_System)
+<td width="50%" valign="top">
 
----
+### 🌎 [Madre Tierra 2.0](https://github.com/ThePurpleOne855/MadreTierra2.0)
 
-### Madre Tierra 2.0
+Modern responsive website created for **Madre Tierra Cigars** with reusable components and a polished responsive interface.
 
-**React · Next.js · JavaScript · Responsive Design**
+**Stack**
 
-Modern web application built with a component-based frontend architecture and responsive design.
+`React` `JavaScript` `Tailwind CSS` `Vite`
 
-[View Repository →](https://github.com/ThePurpleOne855/MadreTierra2.0)
+**What I worked on**
 
----
+- Component architecture
+- Responsive UI
+- Reusable frontend components
+- Animations and transitions
+- Production deployment
+- Modern frontend tooling
 
-### Knight Hacks VIII — Study Buddy
+</td>
+</tr>
 
-**Hackathon · Team Development · Rapid Prototyping**
+<tr>
+<td width="50%" valign="top">
 
-Collaborative project built during Knight Hacks VIII, focused on solving a real problem under hackathon constraints while working as part of a development team.
+### 🎓 [Study Buddy](https://github.com/danieljlowry/KnightHacksVIII-Study-Buddy)
 
-[View Repository →](https://github.com/danieljlowry/KnightHacksVIII-Study-Buddy)
+Hackathon project built during **Knight Hacks VIII** to help students stay focused while studying.
 
----
+The system combines a browser extension with physical hardware to detect distractions and encourage focused study sessions.
 
-## Currently Learning
+**Stack**
+
+`C` `Python` `JavaScript` `Browser Extensions` `Hardware`
+
+**What I practiced**
+
+- Team development
+- Rapid prototyping
+- Hardware/software integration
+- Git collaboration
+- Building under time constraints
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Current Direction
 
 ```text
-Software Engineering
-├── Data Structures & Algorithms
-├── Backend Architecture
+Backend Engineering
+│
+├── Java + Spring Boot
+├── Python + FastAPI
 ├── REST API Design
-├── Databases
-├── Systems Programming
-└── Clean & Maintainable Code
+├── PostgreSQL / MySQL
+├── Docker
+├── Authentication
+├── Testing
+└── System Design
 ```
+
+My current goal is moving from **building projects that work** to building systems that are **well-designed, maintainable, and production-minded**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+## `cat current_focus.txt`
+
+```text
+01  Data Structures & Algorithms
+02  Backend Engineering
+03  REST API Design
+04  Database Design
+05  Software Architecture
+06  Testing & Reliability
+07  System Design
+08  Writing cleaner code
+```
+
+The priority isn't collecting frameworks.
+
+It's getting better at **solving problems, designing software, and understanding the engineering decisions behind the code.**
+
+---
+
+## `git stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThePurpleOne855&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThePurpleOne855&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B949E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePurpleOne855&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8B949E" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePurpleOne855&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6" />
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ThePurpleOne855&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 </div>
 
 ---
 
-<div align="center">
+## `./next`
 
-### Let's Connect
-
-I'm currently building, learning, and preparing for **Software Engineering internship opportunities**.
-
-[LinkedIn](https://www.linkedin.com/in/jose-santana-47aa8a266/) · [GitHub](https://github.com/ThePurpleOne855)
-
-</div>
+```java
+while (learning) {
+    build();
+    breakThings();
+    understandWhy();
+    rebuildBetter();
+}
 ```
 
-This direction fits your profile much better because it avoids fake skill meters, giant ASCII art, excessive badges, and gimmicks. The purple accent still gives you identity, but the projects and engineering work remain the focus.
+<div align="center">
 
-I’d also keep the **expense tracker explicitly framed as contribution/modernization work**, because that is more credible than presenting the original project as entirely yours.
+### Let's build something.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ThePurpleOne855-181717?style=for-the-badge&logo=github)](https://github.com/ThePurpleOne855)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Santana-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-santana-47aa8a266/)
+[![Email](https://img.shields.io/badge/Email-jasas1357%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasas1357@gmail.com)
+
+</div>
